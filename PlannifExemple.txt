@@ -5,3 +5,4 @@ faire la conception en trouvant le differentes classes
 creer le diagramme de sequence
 
 MODIF
+ah ouais
